@@ -7,3 +7,4 @@ huoruichen
 hello huoruichen maxter test
 hello huoruichen hot-fix test
 hello huoruichen222
+pageChange
